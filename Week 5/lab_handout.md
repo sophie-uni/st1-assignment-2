@@ -1,6 +1,6 @@
 ### Part A - Client Brief: AI OFF
 ### SmartCare uses spreadsheets and paper records. Staff report duplicate bookings, difficulty finding patient information, inconsistent appointment status and limited appointment history. Management wants a small, maintainable patient, practitioner and appointment system.<br/>
-Project: Small Patient, Practitioner and Appointment Management System
+**Project:** Small Patient, Practitioner and Appointment Management System <br />
 SmartCare currently manages patient and appointment information using spreadsheets and paper records. This process has resulted in duplicate bookings, difficulty locating patient information, inconsistent appointment statuses and limited access to appointment history.
 SmartCare wants a lightweight, reliable and maintainable system to centralize manage essential information about patients, practitioners and appointments. The system should help staff find patient records quickly, reduce duplicate bookings, maintain consistent appointment statuses and provide a usable history of appointments.
 The proposed system should be simple to operate, reliable for day-to-day administrative work and maintainable as SmartCare’s needs develop. Detailed features, scope boundaries and data requirements will be confirmed with stakeholders before development.
